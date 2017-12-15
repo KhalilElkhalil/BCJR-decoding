@@ -8,7 +8,7 @@
 % Soft Input Soft Output (SISO) decoder. It can be applied to any code
 % having a finite state machine, in our case we will use it for rate-1/n convolutional codes.
 %         					
-%                                              K. Elkhalil, SUP'COM Tunisia
+%                                              K. Elkhalil, SUP'COM Tunisia 2012
 %                				             
 % *******************************************************************************%
 function LLR=BCJR_conv(y,trellis,sigma)
